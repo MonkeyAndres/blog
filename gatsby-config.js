@@ -7,17 +7,17 @@ module.exports = {
   ],
   // Customize your site metadata:
   siteMetadata: {
-    title: `My Blog Title`,
-    author: `My Name`,
-    description: `My site description...`,
+    title: `MonkeyBlog`,
+    author: `Andres Martin Angulo`,
+    description: `I write about my random thoughts and adventures.`,
     social: [
       {
-        name: `twitter`,
-        url: `https://twitter.com/gatsbyjs`,
+        name: `instagram`,
+        url: `https://instagram.com/monkeyandres`,
       },
       {
         name: `github`,
-        url: `https://github.com/gatsbyjs`,
+        url: `https://github.com/monkeyandres`,
       },
     ],
   },
