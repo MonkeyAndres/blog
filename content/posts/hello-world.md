@@ -3,21 +3,23 @@ title: Bienvenidos a MonkeyBlog
 date: 2018-10-08
 ---
 
-Hola a todos, soy Andres Martín Angulo y soy desarrollador web en Redradix. Me ha parecido interesante abrir un blog porque desde hace tiempo quería un lugar donde expresarme y contarle a la gente mis pequeñas historias.
+Hola mundo, soy Andres Martín Angulo. Estaba yo trasnochando una noche pensando en cosas de la vida y se me ocurrió la idea de abrir un blog. Dada mi increíble personalidad de motivado pille el portátil y decidí empezar esta cosa.
 
-La temática en torno a la cual va a girar el blog va a ser principalmente sobre informática. No van a ser artículos ni mucho menos técnicos, bastante tiempo nos pasamos ya los programadores desarrollando para empresas o para proyectos personales 😆
+### Tematica del blog
 
-A parte de la tecnología que creo que es un tema del que ya existe muchísimo contenido y que hay muchísimos blogs y Youtubers que probablemente cuenten las cosas mejor que yo quiero tratar los siguientes temas:
+No lo sé ni yo, al momento de abrir esto quería simplemente encontrar un sitio para expresar mi opinion largo y extendido sobre ciertos temas. También me gustaría compartir mis pequeñas investigaciones y las teorías que me monto en mi cabeza sobre como veo el mundo.
 
-* Productividad (como organizarse las tareas y la vida en general) ⏰
-* Mis experiencias personales 👴🏼
-* Emprendimiento 💼
-* Cosas que creo que deberían ser diferentes 🙅🏽‍♂️
+Por resumir un poco escribiré sobre cualquier cosa que me apetezca pero intentare llevar una temática alrededor de:
 
-No sé que os parecen, soy muy nuevo en esto de escribir y al principio me costara pero todo es practicar y no rendirse.
+- Productividad (como organizarse las tareas y la vida en general) ⏰
+- Mis experiencias personales y modo de ver la vida 👴🏼
+- Cosas que creo que deberían ser diferentes 🙅🏽‍♂️
+- Investigaciones varias 🔍
 
-Por ultimo quiero comentar que no creo que escriba periódicamente o sea escribiré artículos pero no de forma periódica, el blog es un hobby para mí y no quiero tampoco dejar de lado otros proyectos personales.
+Soy muy nuevo en esto de escribir y asumo que mi modo de escribir no sera muy entretenido y ameno pero intentaré hacerlo lo mejor que pueda. Al final la mayoría de las cosas que voy a subir aquí son documentos que hago yo para mí mismo pero así comparto con el resto del mundo que nunca viene mal.
 
-Dentro de poco voy a subir un articulo al que estoy dedicando mucho tiempo y el cual se trata de una pequeña introducción a quien soy yo.
+### Frecuencia de posts
+
+Quiero comentar que no creo que escriba periódicamente o sea escribiré artículos pero no de forma periódica, el blog es un hobby para mí y no quiero tampoco dejar de lado otros proyectos personales.
 
 Muchas gracias por leer hasta aquí, nos vemos dentro de poco!
